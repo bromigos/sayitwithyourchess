@@ -48,7 +48,7 @@
     "history": "^1.17.0",
     "istanbul": "^0.4.0",
     "jsdom": "^8.0.2",
-    "lodash": "^3.10.0",
+    "lodash": "^4.17.5",
     "mocha": "^2.3.3",
     "react": "^0.14.x",
     "react-addons-test-utils": "^0.14.0",
@@ -59,7 +59,7 @@
     "run-sequence": "^1.1.1",
     "sinon": "^1.17.1",
     "sinon-as-promised": "^4.0.0",
-    "superagent": "^1.2.0",
+    "superagent": "^3.7.0",
     "vinyl-source-stream": "^1.1.0",
     "watchify": "^3.2.x",
     "yargs": "^3.27.0"
